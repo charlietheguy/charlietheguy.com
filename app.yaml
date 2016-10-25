@@ -2,7 +2,7 @@ runtime: python27
 api_version: 1
 threadsafe: true
 
-default_expiration: "0m"
+default_expiration: "1m"
 
 handlers:
 - url: /(.*\.(appcache|manifest))
@@ -15,7 +15,7 @@ handlers:
   mime_type: application/atom+xml
   static_files: static/\1
   upload: static/(.*\.atom)
-  expiration: "1h"
+  expiration: "1m"
 
 - url: /(.*\.crx)
   mime_type: application/x-chrome-extension
@@ -41,7 +41,7 @@ handlers:
   mime_type: text/html
   static_files: static/\1
   upload: static/(.*\.html)
-  expiration: "1h"
+  expiration: "1m"
 
 - url: /(.*\.ico)
   mime_type: image/x-icon
@@ -58,7 +58,7 @@ handlers:
   mime_type: application/json
   static_files: static/\1
   upload: static/(.*\.json)
-  expiration: "1h"
+  expiration: "1m"
 
 - url: /(.*\.m4v)
   mime_type: video/m4v
@@ -89,7 +89,7 @@ handlers:
   mime_type: application/rss+xml
   static_files: static/\1
   upload: static/(.*\.rss)
-  expiration: "1h"
+  expiration: "1m"
 
 - url: /(.*\.safariextz)
   mime_type: application/octet-stream
@@ -140,7 +140,7 @@ handlers:
   mime_type: application/xml
   static_files: static/\1
   upload: static/(.*\.xml)
-  expiration: "1h"
+  expiration: "1m"
 
 - url: /(.*\.xpi)
   mime_type: application/x-xpinstall
