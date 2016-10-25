@@ -25,7 +25,7 @@
     },
     "publishType": "local",
     "publishPath": "file:///Users/Radost/Dropbox/personal-presentation",
-    "favicon": "@PROJECT_PATH@/assets/images/13934617-10208765914737801-102508526576106597-n-128x128-95.jpg",
+    "favicon": "assets/images/13934617-10208765914737801-102508526576106597-n-128x128-95.jpg",
     "noImageResize": ""
   },
   "pages": {
