@@ -25,7 +25,7 @@
     },
     "publishType": "local",
     "publishPath": "file:///Users/Radost/Dropbox/personal-presentation/static",
-    "favicon": "assets/images/13934617-10208765914737801-102508526576106597-n-128x128-95.jpg",
+    "favicon": "@PROJECT_PATH@/assets/images/13934617-10208765914737801-102508526576106597-n-128x128-95.jpg",
     "noImageResize": ""
   },
   "pages": {
@@ -107,14 +107,14 @@
             "timeout": "10",
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "assets/images/imgp6797-2000x1333-83.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "FREEMIND<br>ARCHITECT",
+                "title": "FREEMIND<br>ARCHITECT<br>",
                 "showText": true,
                 "text": "Let's start building.",
                 "showButtons": true,
@@ -126,11 +126,12 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayColor": "#000000",
                 "contentAlign": "center",
                 "showTitle": true,
                 "title": "INKASUJ.CZ<br>INCOMEX.IO",
                 "showText": true,
-                "text": "* commission-based social network<br>* connected with other services, e.g. BEJVAK.CZ<br>* related to kartapoptavky.cz, kartanabidky.cz, kartamaklere.cz, pronajmi-a-vydelej.cz, easyearn.cz",
+                "text": "* Commission-based social network<br>* Interconnected with e.g. BEJVAK.CZ<br>* Make your living with us<br><br>Relates to: kartapoptavky.cz,&nbsp;kartanabidky.cz, kartamaklere.cz, pronajmi-a-vydelej.cz, easyearn.cz",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -144,7 +145,7 @@
                 "showTitle": true,
                 "title": "RANK.SEXY<br>RANK.WTF",
                 "showText": true,
-                "text": "* simple ranking service<br>",
+                "text": "* Service with relative ranking schema<br>* Intuitive and fun to rank<br><br>Relates to: doporuc.me, pochval.me",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
@@ -158,7 +159,7 @@
                 "showTitle": true,
                 "title": "ORGANIS.IO",
                 "showText": true,
-                "text": "* project maintaining the people's time<br>* scheduling upcoming events - work, shopping<br>* working with location strategy, supporting GPS<br>* relates to org.aniser",
+                "text": "* Time-management efficiently<br>* Scheduling upcoming events, creating polls, living<br>* Location strategy based on GPS<br><br>Relates to: org.aniser",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
               },
@@ -170,9 +171,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "HROOVE.COM",
+                "title": "HIRE.WITHIN.COMPANY",
                 "showText": true,
-                "text": "* unique skill-set application for internal hiring hire.within.company<br>* works also for recomendations of insiders<br>* relates to hroover.com",
+                "text": "* Unique skill-set application for internal hiring<br>* Profit from internal employee recomendations<br><br>Relates to: hroove.com, hroover.com",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
               },
@@ -186,7 +187,7 @@
                 "showTitle": true,
                 "title": "BEJVAK.CZ",
                 "showText": true,
-                "text": "* simple platform for rent/purchase of property<br>* related kartanemovitosti.cz, investicebyt.cz, investicedum.cz, investicepozemek.cz<br>",
+                "text": "* Rent, Purchase your or else's property<br>* Using commission-based ranking<br><br>Relates to: kartanemovitosti.cz, investicebyt.cz, investicedum.cz, investicepozemek.cz<br>",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
               },
@@ -200,7 +201,7 @@
                 "showTitle": true,
                 "title": "INGENIOUS FSA",
                 "showText": true,
-                "text": "* Finite State Automaton solution for programming<br>* thessign.com",
+                "text": "* Finite State Automaton differently<br>* Imagine state-based concept of programming<br><br>Relates to: thessign.com",
                 "showButtons": true,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
               },
@@ -214,12 +215,12 @@
                 "showTitle": true,
                 "title": "PERSONAL",
                 "showText": true,
-                "text": "* rawtroll.com, 1does.net, ingenious3.com, thessign.com, netflek.cz, charlietheguy.cz, charlietheguy.com, domindy.biz, easyearn.biz, csbcoach.com<br>",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
+                "text": "Related rawtroll.com, 1does.net,<br>ingenious3.com, netflek.cz, <br>domindy.biz, easyearn.biz,<br>csbcoach.com<br>",
+                "showButtons": false,
+                "buttons": "   <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
               },
               {
-                "active": false,
+                "active": true,
                 "image": "assets/images/imgp6862-2000x1333-79.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -228,8 +229,8 @@
                 "showTitle": true,
                 "title": "COMMUNITY",
                 "showText": true,
-                "text": "* bajecni.cz, svobodomyslny.cz, weekquote.org<br>",
-                "showButtons": true,
+                "text": "Political projects bajecni.cz,&nbsp;svobodomyslny.cz, weekquote.org<br>",
+                "showButtons": false,
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
               },
               {
@@ -252,7 +253,12 @@
             "showBullets": true
           },
           "_anchor": "slider-0",
-          "articleLayout": false
+          "articleLayout": false,
+          "_styles": {
+            "H2": {
+              "font-size": "46px"
+            }
+          }
         },
         {
           "_tags": [
