@@ -24,7 +24,7 @@
       }
     },
     "publishType": "local",
-    "publishPath": "file:///Users/Radost/Dropbox/personal-presentation",
+    "publishPath": "file:///Users/Radost/Dropbox/personal-presentation/static",
     "favicon": "assets/images/13934617-10208765914737801-102508526576106597-n-128x128-95.jpg",
     "noImageResize": ""
   },
@@ -104,10 +104,10 @@
             "autoplay": true,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "timeout": 5,
+            "timeout": "10",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "assets/images/imgp6797-2000x1333-83.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -122,7 +122,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
+                "image": "assets/images/imgp6910-2000x1333-49.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -136,7 +136,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
+                "image": "assets/images/imgp6776-2000x3000-55.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -150,7 +150,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
+                "image": "assets/images/imgp6903-2000x1333-68.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -164,7 +164,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
+                "image": "assets/images/imgp6786-2000x1333-95.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -178,7 +178,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
+                "image": "assets/images/imgp6866-2000x1333-70.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -192,35 +192,7 @@
               },
               {
                 "active": false,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "PERSONAL",
-                "showText": true,
-                "text": "* rawtroll.com, 1does.net, ingenious3.com, thessign.com, netflek.cz, charlietheguy.cz, charlietheguy.com, domindy.biz, easyearn.biz, csbcoach.com<br>",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "COMMUNITY",
-                "showText": true,
-                "text": "* bajecni.cz, svobodomyslny.cz, weekquote.org<br>",
-                "showButtons": true,
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "assets/images/imgp6786-2000x1333-69.jpg",
+                "image": "assets/images/imgp6797-2000x1333-47.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
@@ -234,7 +206,35 @@
               },
               {
                 "active": false,
-                "image": "assets/images/imgp6786-2000x1333-51.jpg",
+                "image": "assets/images/imgp6905-2000x1333-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "PERSONAL",
+                "showText": true,
+                "text": "* rawtroll.com, 1does.net, ingenious3.com, thessign.com, netflek.cz, charlietheguy.cz, charlietheguy.com, domindy.biz, easyearn.biz, csbcoach.com<br>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "assets/images/imgp6862-2000x1333-79.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "COMMUNITY",
+                "showText": true,
+                "text": "* bajecni.cz, svobodomyslny.cz, weekquote.org<br>",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WEB</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.charlietheguy.cz/apps4android/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR ANDROID</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.charlietheguy.cz/apps4mac/organis.io\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "assets/images/imgp6900-2000x1333-39.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
