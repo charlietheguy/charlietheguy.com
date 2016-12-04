@@ -124,8 +124,8 @@
           "_name": "content2",
           "_anchor": "content2-1",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "text": "<blockquote><p><b>Mám na výběr. </b>V každém okamžiku svého života jsem to já, kdo rozhoduje o událostech další vteřiny.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Vzpomínám si na události z mládí, kdy jsem shodou okolností zažil náročné období, zažil měsíce depresí. Vycházely hlavně z pocitu, že nemám na výběr. V momentě, kdy jsem pochopil, že mám nad svým životem moc, změnil jsem ho. A cílem je dodnes radovat se z něj.</span></p></blockquote>"
@@ -137,8 +137,8 @@
           "_name": "content2",
           "_anchor": "content2-4",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
           "text": "<blockquote><p><b>Protože pouze můj pocit a má intuice jsou jedinou určující jednotkou.</b>&nbsp;Pokud něco necítím srdcem, či to ve mně nevyvolává dobrý pocit, jdu raději od toho.&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">V životě jsem zažil chvíle, kdy jsem svůj (nedobrý) pocit potlačoval a důvěřoval ostatním dokonce tak, že jsem na několik let dopředu kompletně zdevastoval svoji intuici. Sám sebe jsem potlačil, trpěl depresemi a trvalo dlouho přijít na to, že jedině můj pocit a má intuice mají v mém životě hlavní slovo.</span></p></blockquote>"
@@ -492,7 +492,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><b>Díky těmto hodnotám ve svém životě jsem nahradil frázi nemám se rád frází miluji se.</b></p><p><b><br></b></p><p><b>Čistím své tělo i nejbližší okolí pozitivním přístupem, jím to nejlepší, dopřávám si to nejlepší.</b></p><p><b><br></b></p><p><b>Nahrazuji frázi není to možné frází já to dokážu.</b></p><p><b><br></b></p><p><b>Nahrazuji obavy a strach odvahou čelit jim.</b></p><p><b><br></b></p><p><b>Protože každý den a dnešek, den mých 30. narozenin zejména, je tím nejlepším dnwm začít úplně něco nového, celá nová kapitola života je přede mnou.&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Ať se dnes rozhodnu pro cokoliv, bude to nejkrásnější den mého života.</b></p><p><b><br></b></p><p><b>Protože žiji svobodný život.</b></p></blockquote>"
+          "text": "<blockquote><p><b>Díky těmto hodnotám ve svém životě jsem nahradil frázi nemám se rád frází miluji se.</b></p><p><b><br></b></p><p><b>Čistím své tělo i nejbližší okolí pozitivním přístupem, jím to nejlepší, dopřávám si to nejlepší.</b></p><p><b><br></b></p><p><b>Nahrazuji frázi není to možné frází já to dokážu.</b></p><p><b><br></b></p><p><b>Nahrazuji obavy a strach odvahou čelit jim.</b></p><p><b><br></b></p><p><b>Protože každý den a dnešek, den mých 30. narozenin zejména, je tím nejlepším dnem začít úplně něco nového, celá nová kapitola života je přede mnou.&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Ať se dnes rozhodnu pro cokoliv, bude to nejkrásnější den mého života.</b></p><p><b><br></b></p><p><b>Protože žiji svobodný život.</b></p></blockquote>"
         },
         {
           "_styles": {
