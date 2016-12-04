@@ -25,8 +25,10 @@
     },
     "publishType": "local",
     "publishPath": "file:///Users/Radost/Dropbox/personal-presentation/static",
-    "favicon": "@PROJECT_PATH@/assets/images/13934617-10208765914737801-102508526576106597-n-128x128-95.jpg",
-    "noImageResize": ""
+    "favicon": "assets/images/13934617-10208765914737801-102508526576106597-n-128x128-95.jpg",
+    "noImageResize": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -96,10 +98,435 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"mailto:offer@charlietheguy.cz\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>offer@charlietheguy.cz</a> "
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-0",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "30 zásad, které mi v den mých 30. narozenin utvářejí spokojený život",
+          "meta": "Charlie The Guy, dne čtvrtého prosince 1986-2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Mám na výběr. </b>V každém okamžiku svého života jsem to já, kdo rozhoduje o událostech další vteřiny.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Vzpomínám si na události z mládí, kdy jsem shodou okolností zažil náročné období, zažil měsíce depresí. Vycházely hlavně z pocitu, že nemám na výběr. V momentě, kdy jsem pochopil, že mám nad svým životem moc, změnil jsem ho. A cílem je dodnes radovat se z něj.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-4",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Protože pouze můj pocit a má intuice jsou jedinou určující jednotkou.</b>&nbsp;Pokud něco necítím srdcem, či to ve mně nevyvolává dobrý pocit, jdu raději od toho.&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">V životě jsem zažil chvíle, kdy jsem svůj (nedobrý) pocit potlačoval a důvěřoval ostatním dokonce tak, že jsem na několik let dopředu kompletně zdevastoval svoji intuici. Sám sebe jsem potlačil, trpěl depresemi a trvalo dlouho přijít na to, že jedině můj pocit a má intuice mají v mém životě hlavní slovo.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-5",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Protože jsem plně zodpovědný sám sobě za to, jaký život žiji. </b>Neexistuje nic v životě, co bych nemohl změnit, od práce, místa, kde žiji přes partnera až po přátele. I vzdání se odpovědnosti je vlastní odpovědné rozhodnutí.&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">To, jaký nyní jsem možná ovlivnily okolnosti (které jsem ovšem do svého života sám přivolal, aby mě naučily lekci), rodiče či další věci. Každou chvíli jsem ale byl zodpovědný udělat věci jinak. Když jsem poslechl rodiče, jsem zodpovědný za to, že jsem to udělal, když jsem poslechl přátele, jsem zodpovědný, že jsem je poslechl.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Proto pouze já sám vím, co je pro mě nejlepší. </b>A pokud se mýlím, nejspíš je to to nejlepší, co se může stát.&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">Vždy hájím své zájmy, protože mé zájmy jsou na žebříčku hodnot ostatních až po jejich vlastních. To ovšem také znamená, že můžeme zájmy sdílet, třeba ohleduplnost k přírodě či touhu po lepší společnosti.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Proto když se mýlím jsem dost odvážný přiznat sobě i ostatním chybu a omluvit se.&nbsp;</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">Párkrát v životě, v honbě za vlastním zájmem jsem ztratil kontakt s realitou a ta už byla jiná, změněná.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Pokud se situace změnila, možná můj zájem už není aktuální, nebo dokonce někoho poškodil či poškozuje, je na čase najít jiný cíl. K základnímu vychování, k moudrosti každého vyspělého člověka, dle mého názoru, patří schopnost uznat chybu a omluvit se, sobě i ostatním.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-8",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Protože jsem přesně takový, jaký si přeji a toužím být. </b>Popíráním sebe pouze žiji život někoho jiného.</blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-9",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Protože žiji život složený ze svých vlastních snů. </b>A jiný život pro mě ani nemá smysl.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Těším se z toho, jak si plním své sny, od života v Holandsku, přes cestování, práce jako novinář, až třeba po průkaz vůdce malého plavidla či nynější práci na naučení se skládání rubikovy kostky.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto si velmi dobře vybírám, co a koho do svého života pustím.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">Každý člověk i věc v mém životě vyžadují moji pozornost.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Dříve jsem měl problémy zbavit se starých věcí. Nahrazoval jsem jimi chybějící vztahy a pocity. Podobné to bylo s lidmi, těžce jsem nesl jakoukoliv ztrátu. Dnes již chápu, ať je to partnerka, kamarád, dědeček či krabice se vzpomínkovými předměty, každý tento prvek mého života má u mě své místo. A radovat se z něj mohu, jen když v mém životě dostane prostor a oboustranně si přinášíme radost. Příliš nadbytečných věcí, které již neslouží, či lidí, ať už v rodině či mimo ni, kteří nás z nějakého důvodu opustili, zradili, či se vyvíjeli jiným směrem, nemá smysl v životě držet. Naopak, čím dřív se jich pustím, tím dříve buď získám více pozornosti pro sebe, anebo objevím nové, dosud nepoznané a takové, které přesně budou odpovídat tomu, jaký jsem teď.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Protože přirozený atribut vesmíru je změna.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">Nejtěžší věc je nevyvíjet se, zůstat stát na místě.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Ze spousty situací, které jsem doteď zažil mi vyplývá, že pokud by změna, která byla jejich důsledkem, přišla dříve, měl bych se životem o něco lehčí pořízení.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto důvěřuji moudrosti vyšší moci, vesmíru.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">A velmi si dávám pozor na svoje myšlenky a pocity.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Nejkrásnější chvíle v životě prožívám s pozitivním myšlením a pozitivními slovy, pozitivními radostmi v životě, pocity. Neomezuji svoji důvěru konkrétní vírou či náboženstvím, sám sobě dávám prostor zažít zkušenost s nadpozemským bez omezení a očekávání.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Proto si vizualizuji svoje plány do budoucna, tvořím záměry.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">Aby vesmír věděl, kam mě má nasměrovat.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Perfektně na to funguje nástěnka přání. Jde o soubor obrazů takových, jakých chceš, aby byla Tvá budoucnost. Není třeba popisovat, o co jde, důležité je mít ten správný pocit z celé nástěnky, z každého dílku a vizualizovat si, jaký život můžu zažít, jaké pocity budu mít, až se daná vizualizace splní. Moje nástenka na budoucí půlrok vypadá <b>takto</b>, je vytištěná na papíře a zalaminovaná.</span></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-v",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "assets/images/nstnka-pn-do-06-1400x1979-94.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Nástěnka přání",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto využívám energie, která je mi dána k pozitivním cílům.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">Protože věřím, že život okolo bude krásný pokud každý udělá to samé.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Čas od času vyslovím a procítím přání, ať jsou všichni šťastní.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto každý den si něčím udělám radost.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">Podporuje to můj krásný pocit radosti ze života.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">I kdybych si jen měl pustit svoji oblíbenou písničku, na svém barevném LED pásku měl nastavit barvu, co se mi v tu chvíli nejvíce líbí či si jen koupit kopeček zmrzliny nebo namalovat obrázek.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-g",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Protože čas je jediná spravedlivá jednotka, které máme všichni podobně.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">Nikdy ne stejně.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Právě to, čím si za svůj život udělám radost považuji za jeho smysl. A pokud po životě není nebe, nevadí, stvořím si ho už na Zemi.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto vše, co jsem kdy udělal, bylo to jediné správné rozhodnutí.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">K minulosti se nemá smysl vracet.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Ano, samozřejmě, že to dělám i já, ale akorát mě to odvádí od přítomnosti. Od toho, jaký chci a můžu být, od prožívání právě této chvíle, která, jak jsem psal výše, je ta nejkrásnější v mém životě.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-i",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto ničeho nelituji.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">I věci, které jsem možná dělat neměl, jsem ve svém životě potřeboval.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">V danou chvíli jsem udělal maximum, co jsem mohl. Možná bych jednal jinak, šel studovat něco jiného, odjel do jiné země, ale tehdy to tak bylo jediné správné rozhodnutí.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-j",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto je každý můj den součást mého snu.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">A já jsem šťastný a nadšený z toho, že ho žiji.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-k",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto jsou mými hlavními hodnotami Pravda, důvěra, respekt a láska.</b>&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">A na jejich prosazování pracuji každý den.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">A nejde pouze o mezilidské žití v globálním světě. Tím, že třídím odpad vyjadřuji respekt a lásku k přírodě, protože věřím, že díky tomu je ekologická stopa lidstva na Zemi mírnější.</span></blockquote><br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto k sobě chovám city jako ke svému nejlepšímu příteli.</b>&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">I dobrý přítel může občas něco vytknout, ale to nejpodstatnější je, že se mám stále rád.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto přijímám výzvy a vítám veškeré nové příležitosti.</b>&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">A čím více jsem jim otevřen, tím více jich přichází.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto přeji ostatním, ať se mají alespoň tak dobře jako já sám.</b>&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">Každému ovšem dávám prostor k zodpovědnosti vzít život do vlastních rukou.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Rád podpořím ty, kteří si přejí lepší život, jsou motivováni a provádějí v životě změnu.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Když se každý postará sám o sebe, bude o všechny postaráno.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>Proto neváhám své hodnoty šířit a dávat najevo a těší mě inspirovat.&nbsp;</b><span style=\"font-size: 1.09rem; line-height: 1.5;\">Svými hodnotami měním příkladem nejbližší okolí i celý svůj život.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>A rozlišuji, komu nabízím podporu a komu pomoc.</b>&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">Podpora je asistence někomu, kdo by rád svůj život změnil, akorát nevidí, že má na výběr. Komukoliv, u koho vidím, že má podpora mu dodá možnost volby, rád podporu dodám. Pomoc naproti tomu je převzetí části zodpovědnosti za situaci i člověka a to může velmi často kolidovat s tím, co vlastně sám chce. Převzít za někoho zodpovědnost omezuje jeho svobodnou volbu a možnost rozvíjet se.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><b>A respektuji, že moje názory a hodnoty někteří nesdílí.</b>&nbsp;<span style=\"font-size: 1.09rem; line-height: 1.5;\">Každý má právo žít svůj život podle svých hodnot, pokud respektuje názory, hodnoty, svobody a práva ostatních.&nbsp;</span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Veškerá má změna vždy vycházela pouze z toho, co jsem chtěl já sám.</span></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><b>Díky těmto hodnotám ve svém životě jsem nahradil frázi nemám se rád frází miluji se.</b></p><p><b><br></b></p><p><b>Čistím své tělo i nejbližší okolí pozitivním přístupem, jím to nejlepší, dopřávám si to nejlepší.</b></p><p><b><br></b></p><p><b>Nahrazuji frázi není to možné frází já to dokážu.</b></p><p><b><br></b></p><p><b>Nahrazuji obavy a strach odvahou čelit jim.</b></p><p><b><br></b></p><p><b>Protože každý den a dnešek, den mých 30. narozenin zejména, je tím nejlepším dnwm začít úplně něco nového, celá nová kapitola života je přede mnou.&nbsp;</b><b style=\"font-size: 1.07rem; line-height: 1.5;\">Ať se dnes rozhodnu pro cokoliv, bude to nejkrásnější den mého života.</b></p><p><b><br></b></p><p><b>Protože žiji svobodný život.</b></p></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Jak to máš Ty? Napiš mi na <a href=\"mailto:mehodnoty@charlietheguy.cz\" target=\"_blank\">mehodnoty@charlietheguy.cz</a>.",
+          "meta": ""
+        },
+        {
           "_tags": [
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "46px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -253,12 +680,7 @@
             "showBullets": true
           },
           "_anchor": "slider-0",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "46px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_tags": [

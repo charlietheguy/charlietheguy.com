@@ -414,6 +414,17 @@ h6,
 #header2-9 .btn {
   font-size: 15px;
 }
+#header3-0 .mbr-section-title,
+#header3-0 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u H3 {
+  font-size: 25px;
+}
 #slider-0 H2 {
   font-size: 46px;
 }
